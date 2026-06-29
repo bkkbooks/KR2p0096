@@ -1,0 +1,36 @@
+canonical_identifier: bkk:krp/KR2p0096/v1
+canonical_location: https://kanripo.org/bkk/KR2p0096/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 胎產書釋文
+  identifiers:
+    krp: KR2p0096
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0096.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0096_001.yaml, hash: 'sha256:a194bcc76f23ebb9e7098dfc20e683645005a4e4aecd1518350d7eeb442a64ea'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0096_001.markers.yaml, hash: 'sha256:d84880fe28f503eab5b74e84d537c57fef7d1ce9e025c6a96985c641632d9039'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0096_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 741
+  label: 馬王堆漢墓帛書胎產書釋文
+  type: section
+  level: 1
+hash: sha256:7bed905b7df621ec165b220c1dbd132c1e346830e8a080be979027f112362d5a
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
