@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0096_001.yaml, hash: 'sha256:a194bcc76f23ebb9e7098dfc20e683645005a4e4aecd1518350d7eeb442a64ea'}
+  - {seq: 1, filename: KR2p0096_001.yaml, hash: 'sha256:68f3e6538904c1a9081a653f309ec7f1d75c8712d65028764fd6fed651e6dead'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0096_001.markers.yaml, hash: 'sha256:d84880fe28f503eab5b74e84d537c57fef7d1ce9e025c6a96985c641632d9039'}
+  - {seq: 1, role: markers, filename: assets/KR2p0096_001.markers.yaml, hash: 'sha256:3b7372fde6b7b5eb0a9e1a1bb918dadaca18d928cd3878c128a5fb439db5a69a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,7 +30,4 @@ table_of_contents:
   label: 馬王堆漢墓帛書胎產書釋文
   type: section
   level: 1
-hash: sha256:7bed905b7df621ec165b220c1dbd132c1e346830e8a080be979027f112362d5a
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2db7c02e21cfdb0c9ef1f62c053be8d378dfbfb5b45d8f34c4023860f78b7c64
